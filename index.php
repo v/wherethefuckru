@@ -39,7 +39,7 @@
 				<a id="hide-help-link" href="#"> Hide </a>
 				<p> WherethefuckRU is a service that allows you to search an address around Rutgers, and figure out where it is relative to common bus stops. It shows you a map of walking directions from the closest bus stop. This is especially useful if you are looking for Off Campus housing. </p>
 			</div>
-		<?php $stops = unserialize(file_get_contents('output')); ?>
+		<?php $stops = unserialize(file_get_contents('stops-list')); ?>
 			<form id="stop-form" action="" method="get">
 				Address<br />
 				<input id="address" type="text" name="address" value="<?=@$_REQUEST['address']?>" /><br />
