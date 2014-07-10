@@ -1,5 +1,5 @@
 <?
-    require('secrets.php');
+    $apikey='AIzaSyBFCdq0tMeKhbcP1DFT-bsNGrBrF2hDxyo';
 	function debug_r($text)
 	{
 		echo '<pre>';
