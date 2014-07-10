@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright Rutgers University 2011."> 
+<stop tag="scott" title="Scott Hall" lat="40.499567" lon="-74.448238" stopId="1055"/> 
+<stop tag="traine_a" title="Train Station" lat="40.498187" lon="-74.445195" stopId="1064"/> 
+<stop tag="stuactcntr" title="Student Activities Center" lat="40.5041" lon="-74.449091" stopId="1001"/> 
+<stop tag="busch_a" title="Busch Campus Center" lat="40.523768" lon="-74.458305" stopId="1008"/> 
+<stop tag="quads" title="Quads" lat="40.51992" lon="-74.433583" stopId="1030"/> 
+<stop tag="livstud" title="Livingston Student Center" lat="40.523959" lon="-74.436622" stopId="1030"/> 
+<stop tag="college_a" title="College Hall" lat="40.485633" lon="-74.437406" stopId="1052"/> 
+<stop tag="zimmerli" title="Zimmerli Arts Museum" lat="40.499666" lon="-74.445021" stopId="1017"/> 
+<stop tag="rutgerss_a" title="Rutgers Student Center" lat="40.502681" lon="-74.451444" stopId="1062"/> 
+</body>
